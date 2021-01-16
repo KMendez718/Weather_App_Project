@@ -1,0 +1,60 @@
+body {
+  margin-top: 50px;
+  font-family: "Balsamiq Sans", cursive;
+}
+
+.degree {
+  position: relative;
+  bottom: 25px;
+  left: 450px;
+}
+
+.todaysTemperature {
+  color: #5c6e91;
+  font-size: 60px;
+}
+
+.today {
+  font-size: 45px;
+}
+
+.time {
+  color: #5c6e91;
+  position: relative;
+  top: 85px;
+  left: 10px;
+  font-size: 25px;
+}
+
+.weather {
+  position: relative;
+  bottom: 115px;
+  left: 250px;
+  list-style: none;
+}
+
+.row {
+  text-align: center;
+}
+
+.col-3 {
+  border-color: #5c6e91;
+  border-style: solid;
+  padding: 30px;
+  border-radius: 1rem;
+}
+
+.row,
+.row-2,
+.row-3 {
+  padding: 20px;
+}
+
+.row {
+  font-size: 20px;
+}
+
+.row-2,
+.row-3 {
+  font-size: 27px;
+}
